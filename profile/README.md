@@ -23,7 +23,7 @@ Engineering foundational protocols and secure, decentralized systems.
 
 **Follow me**  
 
-![X](https://img.shields.io/twitter/follow/haarshalsawant)
+[![Follow on X](https://img.shields.io/badge/Follow_on_X-000000?style=flat&logo=x&logoColor=white)](https://x.com/intent/follow?screen_name=haarshalsawant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haarshalsawant/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/c0d3h01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/c0d3h01/)
