@@ -1,6 +1,6 @@
-# Hey there, I'm Harshal 👋
+### Hey there, I'm Harshal 👋
 
-## 🔮 About Me
+> 🔮 **About Me**
 
 Building at the intersection of **systems optimization** and **algorithmic logic**. Currently exploring finance automation, distributed protocols, and cryptographic systems.
 
