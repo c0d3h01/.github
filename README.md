@@ -5,6 +5,7 @@
     <a href="https://harshalsawant.vercel.app/projects">projects</a> .
     <a href="https://twitter.com/haarshalsawant">x-tweets</a> .
     <a href="https://discord.gg/wf8HeJKsxc">discord</a> .
+    <a href="https://www.instagram.com/haarshalsawant/">instagram</a> .
     <a href="https://github.com/sponsors/harusharu">sponsor</a>
   </samp>
 </p>
