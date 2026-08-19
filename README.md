@@ -1,5 +1,5 @@
-<p align="center">
-  <samp>
+<table align="center">
+  <td>
     <a href="https://harshalsawant.vercel.app/">portfolio</a> .
     <a href="https://harshalsawant.vercel.app/blog">blog</a> .
     <a href="https://harshalsawant.vercel.app/projects">projects</a> .
@@ -7,5 +7,5 @@
     <a href="https://discord.gg/wf8HeJKsxc">discord</a> .
     <a href="https://www.instagram.com/haarshalsawant/">instagram</a> .
     <a href="https://github.com/sponsors/harusharu">sponsor</a>
-  </samp>
-</p>
+  </td>
+</table>
